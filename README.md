@@ -1,75 +1,95 @@
-# 👋 Hi, I'm Srithar B
+<div align="center">
 
-### Computer Science & Engineering Student | Cyber Security Specialization
+# 👋 Hi, I'm **Srithar B**
 
-I'm currently building my foundation in programming, web development, Linux, networking, databases, and cybersecurity.
+### CSE Student • Cyber Security Specialization
+
+**Learn • Build • Secure • Improve** 🚀
+
+<p>
+  <img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web_Development-Learning-0A66C2?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-Learning-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Networking-Learning-2EA44F?style=for-the-badge&logo=cisco&logoColor=white" />
+</p>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm **Srithar B**, a Computer Science & Engineering student specializing in Cyber Security.
+
+I'm building my technical foundation through programming, web development, Linux, networking, databases, and practical projects.
+
+> 🔐 **Currently exploring Cyber Security — learning the fundamentals before building real security projects.**
 
 - 🎓 CSE — Cyber Security Specialization
-- 🐍 Learning Python
+- 🐍 Learning Python and problem solving
 - 🌐 Exploring Web Development
 - 🐧 Learning Linux / Unix
-- 🌐 Learning Computer Networking
-- 🗄️ Exploring Database Systems
-- 🔐 Beginning my Cyber Security journey
-- 🚀 Building projects and learning continuously
+- 🌐 Building networking fundamentals
+- 🗄️ Learning Database Systems
+- 🚀 Turning what I learn into practical projects
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Tech Stack
 
-**Programming**
-- Python
+### 💻 Programming
 
-**Web Development**
-- HTML
-- CSS
-- JavaScript
-
-**Systems & Networking**
-- Linux / Unix
-- Computer Networking
-- Cisco Packet Tracer
-
-**Database**
-- SQL
-- Database Systems
-
-**Tools**
-- Git
-- GitHub
-- VS Code
-
----
-
-## 🚀 Projects
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
 ### 🌐 Web Development
-Web development projects created while learning HTML, CSS and JavaScript.
 
-### ☁️ Cloud Storage Management System
-Unix/Linux based project focused on file management, directories, data handling and permissions.
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
-### 🌐 Computer Networking Labs
-Hands-on networking experiments using Cisco Packet Tracer.
+### 🐧 Systems & Networking
 
-### 🐍 Python Projects
-Python programs and exercises focused on programming fundamentals and problem solving.
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Networking-Learning-2EA44F?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+</p>
+
+### 🗄️ Database
+
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+### 🔧 Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
 
 ---
 
-## 🔐 Cyber Security Journey
+## 🔐 Cyber Security — My Learning Path
 
-I am currently beginning my journey into Cyber Security.
+I'm currently at the beginning of my Cyber Security journey.
+
+My focus is to understand how systems work before learning how to secure them.
 
 ```text
 Programming
      ↓
-Linux
+Linux & Operating Systems
      ↓
 Computer Networking
      ↓
-Network Security
+Security Fundamentals
      ↓
 Web Security
      ↓
-Cyber Security Projects
+Hands-on Security Projects
